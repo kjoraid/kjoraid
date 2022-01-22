@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ * Updated on 22 01 22
  * @author kjora
  */
 public class NewClass {
